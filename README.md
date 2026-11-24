@@ -2,6 +2,8 @@
 
 Die Studierenden stimmen im Hörsaal per QR-Code ab, welche Übungsaufgaben in der Übung besprochen werden sollen.
 
+**Live:** https://s-linden.github.io/mathematik-1-aufgaben-umfrage/ (Repository bis November 2026: `aufgaben-umfrage`; das Firebase-Projekt heißt weiterhin `aufgaben-umfrage`.)
+
 1. **Beamer:** `index.html` zeigt einen QR-Code und zählt live mit, wie viele Stimmen abgegeben wurden.
 2. **Handy:** `vote.html` listet die Übungen des Kapitels. Wer eine Übung ankreuzt, kann optional einzelne Teilaufgaben wählen (mit Formeln). Ohne Auswahl einer Teilaufgabe gilt die ganze Aufgabe.
    Bis zum Ende der Umfrage lässt sich die Auswahl ändern. Pro Gerät zählt eine Stimme.
